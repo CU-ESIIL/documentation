@@ -8,7 +8,7 @@ Information on using the CASE cyberinfrastructure is maintained here
 
 | Pages | Description |
 |-------|-------------|
-| [Home](index.md | |
+| [Home](index.md) | |
 | [Status and News](status.md) | |
 | [Governance](governance.md) | |
 | [General FAQ](faq.md) | |
