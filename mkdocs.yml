@@ -76,7 +76,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/tyson-swetnam/agic-2022.git
+      link: https://github.com/cu-esiil/documentation.git
 
 # Extensions
 markdown_extensions:
