@@ -16,7 +16,7 @@ Information on using the CASE cyberinfrastructure is maintained here
 | [Allocations](allocations.md) | |
 | [Security](security.md) | |
 | [Resources](resources.md) | |
-| [Acceptable Use Policy](acceptable_use.md | |
+| [Acceptable Use Policy](acceptable_use.md) | |
 | [Best Practices](best_practice.md) | |
 
 | Infrastructure | Description |
