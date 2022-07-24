@@ -14,29 +14,28 @@ Information on using the CASE cyberinfrastructure is maintained here
 
 | Pages | Description |
 |-------|-------------|
-| [Home](index.md) | |
-| [Status and News](status.md) | |
-| [Governance](governance.md) | |
-| [General FAQ](faq.md) | |
-| [Troubleshooting](troubleshooting.md) | |
-| [Allocations](allocations.md) | |
-| [Security](security.md) | |
-| [Resources](resources.md) | |
-| [Acceptable Use Policy](acceptable_use.md) | |
-| [Best Practices](best_practice.md) | |
+| [Status](status.md) | Operational status |
+| [Governance](governance.md) | Governance documents for working within ESIIL |
+| [General FAQ](faq.md) | Frequently Asked Questions |
+| [Troubleshooting](troubleshooting.md) | Solutions for common issues |
+| [Allocations](allocations.md) | Managing Storage space and Computer time |
+| [Security](security.md) | Managing Authentication and Security |
+| [Resources](resources.md) | Getting access to educational and computational resources |
+| [Acceptable Use Policy](acceptable_use.md) | Rules for using a community platform fairly|
+| [Best Practices](best_practice.md) | Standard Operating Procedures and recommended Best Practices |
 
 | Infrastructure | Description |
 |----------------|-------------|
-| [Data Storage](storage.md) | |
-| [CASE cyberinfrastructure](case.md) | |
-| [CyVerse](cyverse.md) | |    
-| [Jetstream-2](js2.md) | |
+| [Data Storage](storage.md) | Managing, Transfering, Sharing data |
+| [CASE cyberinfrastructure](case.md) | Architecture of the ESIIL CASE |
+| [CyVerse](cyverse.md) | ESIIL Partner |    
+| [Jetstream-2](js2.md) | NSF ACCESS Public Research Cloud |
 
 | Software | Description |
 |----------|-------------|
-| [Docker](docker.md) | |
-| [ImgSPEC](imgspec.md) | |
-| [JupyterLab](jupyter.md) | |
-| [JupyterHub](jupyter_hub.md) | |
-| [RStudio](rstudio.md) | |
-| [Kubernetes](k8s.md) | |
+| [Docker](docker.md) | List of containers and registry libraries |
+| [ImgSPEC](imgspec.md) | Documentation on the ImgSPEC Jupyter Platform |
+| [JupyterLab](jupyter.md) | Documentation on the Jupyter Notebooks |
+| [JupyterHub](jupyter_hub.md) | Documentaiton on the Jupyter Hubs |
+| [RStudio](rstudio.md) | Documentation on RStudio Notebooks |
+| [Kubernetes](k8s.md) | Documentation on Kubernetes Cluster management |
