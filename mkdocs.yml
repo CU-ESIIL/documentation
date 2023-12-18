@@ -1,6 +1,6 @@
-site_name: ESIIL CASE
-site_description: ESIIL CASE Documentation
-site_author: T.L. Swetnam, N. Stavros
+site_name: ESIIL OASIS
+site_description: ESIIL OASIS Documentation
+site_author: ESIIL CI team (lead: Ty Tuff)
 site_url: https://cu-esiil.github.io/documentation/
 
 # Repository
@@ -25,7 +25,7 @@ nav:
     - Resources: resources.md
     - Storage: storage.md
   - Infrastructure:
-    - CASE: case.md
+    - OASIS: oasis.md
     - CyVerse: cyverse.md
     - Jetstream-2: js2.md
   - Software:
