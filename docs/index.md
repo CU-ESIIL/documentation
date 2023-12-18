@@ -6,7 +6,7 @@
 
 # Environmental Data Science Innovation & Inclusion Laboratory (ESIIL)
 
-Welcome to the ESIIL-CASE Documentation pages. 
+Welcome to the ESIIL-OASIS Documentation pages. 
 
 Information on using the CASE cyberinfrastructure is maintained here
 
