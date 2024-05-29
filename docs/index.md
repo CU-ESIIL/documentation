@@ -8,7 +8,7 @@
 
 Welcome to the ESIIL-OASIS Documentation pages. 
 
-Information on using the CASE cyberinfrastructure is maintained here
+Information on using the OASIS cyberinfrastructure is maintained here
 
 ## Table of Contents
 
